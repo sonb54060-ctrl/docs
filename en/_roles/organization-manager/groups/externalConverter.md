@@ -1,1 +1,0 @@
-The `organization-manager.groups.externalConverter` role enables adding an attribute with an external group ID to {{ org-full-name }} [user groups](../../../organization/concepts/groups.md) when synchronizing with user groups in Active Directory or another external source.

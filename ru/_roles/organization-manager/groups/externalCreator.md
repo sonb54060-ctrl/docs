@@ -1,1 +1,0 @@
-Роль `organization-manager.groups.externalCreator` позволяет создавать [группы пользователей](../../../organization/concepts/groups.md) {{ org-full-name }} при выполнении синхронизации с группами пользователей в каталоге Active Directory или другом внешнем источнике.

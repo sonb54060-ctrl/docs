@@ -1,1 +1,0 @@
-The `managed-airflow.auditor` role enables viewing info on [{{ AF }} clusters](../../managed-airflow/concepts/index.md#cluster), [access permissions](../../iam/concepts/access-control/index.md) granted for them, and on [quotas](../../managed-airflow/concepts/limits.md#quotas) for {{ maf-name }}.

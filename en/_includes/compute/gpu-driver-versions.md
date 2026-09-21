@@ -1,1 +1,0 @@
-{{ compute-name }} performs health checks and recommends installing only [LTS versions of drivers](https://docs.nvidia.com/datacenter/tesla/drivers/releases.json).

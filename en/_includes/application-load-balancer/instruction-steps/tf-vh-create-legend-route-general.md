@@ -1,2 +1,0 @@
-* `name`: Route name.
-* `disable_security_profile`: Disabling the [{{ sws-full-name }}](../../../smartwebsecurity/index.yaml) [security profile](../../../smartwebsecurity/concepts/profiles.md) (optional). The possible values are `true` (the profile is disabled) or `false` (the profile is enabled). The default value is `false`: the security profile is enabled.

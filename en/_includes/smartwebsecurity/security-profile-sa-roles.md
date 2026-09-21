@@ -1,1 +1,0 @@
-To work with a security profile that connects to a load balancer, you will need a service account with the `{{ roles-monitoring-editor }}`, `smart-web-security.admin`, `certificate-manager.admin`, and `{{ roles-logging-writer }}` roles. Learn more in [{#T}](../../iam/operations/sa/assign-role-for-sa.md).

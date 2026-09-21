@@ -1,1 +1,0 @@
-**Copy with static table**: Select this option to perform copy operations via temporary static tables.

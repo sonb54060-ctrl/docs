@@ -1,3 +1,0 @@
-The infrastructure support cost includes:
-* Fee for storing a Docker image in the [registry](../../../container-registry/concepts/registry.md), a vulnerability scanner, and outgoing traffic (see [{{ container-registry-full-name }} pricing](../../../container-registry/pricing.md)).
-* Fee for [function](../../../functions/concepts/function.md) calls (see [{{ sf-full-name }} pricing](../../../functions/pricing.md)).

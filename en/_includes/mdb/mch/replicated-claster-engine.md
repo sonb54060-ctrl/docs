@@ -1,1 +1,0 @@
-It is only available in [replicated](../../../managed-clickhouse/concepts/replication.md) clusters.

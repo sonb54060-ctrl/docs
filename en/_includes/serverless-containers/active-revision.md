@@ -1,1 +1,0 @@
-When invoking a container, its [active revision](../../serverless-containers/concepts/container.md#revision) is used.

@@ -1,1 +1,0 @@
-_Colder_ classes are designed for the long-term storage of rarely accessed objects. With a _colder_ storage class, it is cheaper to store data, while it becomes more expensive to read and write.  Intelligent-tiering storage automatically optimizes costs by moving objects across access tiers based on access frequency.

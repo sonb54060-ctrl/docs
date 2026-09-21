@@ -1,1 +1,0 @@
-{% include [yc-bucket](../../_includes/managed-kubernetes/alb-ref/yc-storage-bucket.md) %}

@@ -1,1 +1,0 @@
-Роль `security-deck.alertSinks.auditor` позволяет просматривать информацию о [приемниках алертов](../../../security-deck/concepts/workspace.md#alert-sinks) и назначенных [правах доступа](../../../iam/concepts/access-control/index.md) к ним.

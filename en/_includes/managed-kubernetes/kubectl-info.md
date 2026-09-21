@@ -1,1 +1,0 @@
-If your cluster has no public IP address assigned and `kubectl` is configured via the cluster's private IP address, run `kubectl` commands on a {{ yandex-cloud }} VM residing in the same network as the cluster.

@@ -1,1 +1,0 @@
-Роль `managed-mysql.clusters.connector` позволяет [пользователям](../../../iam/concepts/users/accounts.md) {{ yandex-cloud }} подключаться к базам данных в [кластерах {{ MY }}](../../../managed-mysql/concepts/index.md) с помощью механизмов сервиса [{{ iam-full-name }}](../../../iam/index.yaml).

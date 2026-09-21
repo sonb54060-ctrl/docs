@@ -1,1 +1,0 @@
-[Остановите](../../../compute/operations/vm-control/vm-stop-and-start.md#stop) виртуальную машину `nextcloud-vm`.

@@ -1,1 +1,0 @@
-You can get the database ID with the [list of databases](../../ydb/operations/manage-databases.md#list-db).

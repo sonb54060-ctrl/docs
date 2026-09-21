@@ -1,1 +1,0 @@
-Go to your cloned repository and install the dependencies:

@@ -1,3 +1,0 @@
-If you create a cluster of two or more {{ CH }} hosts without the coordination service and the cluster [network](../../../../vpc/concepts/network.md) has [subnets](../../../../vpc/concepts/network.md#subnet) in each [availability zone](../../../../overview/concepts/geo-scope.md), the system automatically adds three {{ ZK }} hosts one in each subnet.
-
-If subnets are located only in some availability zones, or you want to use a different coordination service, manually specify the coordination service and its host settings.

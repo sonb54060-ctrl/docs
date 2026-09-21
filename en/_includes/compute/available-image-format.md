@@ -1,1 +1,0 @@
-Supported formats: `Qcow2`, `VMDK`, `RAW`, and `VHD`.

@@ -1,1 +1,0 @@
-Роль `organization-manager.groups.externalConverter` позволяет добавлять в [группы пользователей](../../../organization/concepts/groups.md) {{ org-full-name }} атрибут с идентификатором внешней группы при выполнении синхронизации с группами пользователей в каталоге Active Directory или другом внешнем источнике.

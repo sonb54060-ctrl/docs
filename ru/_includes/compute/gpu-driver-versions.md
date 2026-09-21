@@ -1,1 +1,0 @@
-{{ compute-name }} проверяет работоспособность и рекомендует устанавливать только [LTS версии драйверов](https://docs.nvidia.com/datacenter/tesla/drivers/releases.json).

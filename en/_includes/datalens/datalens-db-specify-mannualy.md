@@ -1,1 +1,0 @@
-Manually specify your external database details to connect to via a public network:

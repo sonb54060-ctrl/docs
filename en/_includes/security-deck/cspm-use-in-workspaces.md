@@ -1,1 +1,0 @@
-The {{ cspm-name }} module's security control [rules](../../security-deck/concepts/cspm.md#rules) are used in the {{ sd-name }} [workspaces](../../security-deck/concepts/workspace.md). If you have no workspaces yet, [create](../../security-deck/operations/workspaces/create.md) one.

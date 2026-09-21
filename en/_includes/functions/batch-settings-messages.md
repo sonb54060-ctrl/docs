@@ -1,2 +1,0 @@
-* `--batch-size`: Message batch size. This is an optional setting. The values may range from 1 to 10. The default value is 1.
-* `--batch-cutoff`: Maximum wait time. This is an optional setting. The values may range from 1 to 60 seconds. The default value is 1 second. The trigger groups messages within the `batch-cutoff` period and sends them to the function. The number of messages cannot exceed `batch-size`.

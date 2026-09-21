@@ -1,1 +1,0 @@
-OIDC apps can be managed by users with the `organization-manager.oauthApplications.admin` [role](../../organization/security/index.md#organization-manager-oauthApplications-admin) or higher.

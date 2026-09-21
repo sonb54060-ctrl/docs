@@ -1,1 +1,0 @@
-Optionally, turn on the **{{ ui-key.yc-ui-ai-studio.ui.field_logging_qiiYa }}** option and configure logging for the new MCP server. The logs can be written to a [folder]({{ link-docs }}/resource-manager/concepts/resources-hierarchy#folder) or [log group]({{ link-docs }}/logging/concepts/log-group).

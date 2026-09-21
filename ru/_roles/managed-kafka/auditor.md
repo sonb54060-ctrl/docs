@@ -1,1 +1,0 @@
-Роль `managed-kafka.auditor` позволяет просматривать информацию о [кластерах {{ KF }}](../../managed-kafka/concepts/index.md) и назначенных [правах доступа](../../iam/concepts/access-control/index.md) к ним, а также о [квотах](../../managed-kafka/concepts/limits.md#mkf-quotas) и операциях с ресурсами сервиса {{ mkf-name }}.

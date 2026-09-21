@@ -1,1 +1,0 @@
-Нажмите кнопку **{{ ui-key.yacloud.baremetal.label_create-server }}**.

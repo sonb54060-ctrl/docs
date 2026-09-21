@@ -1,3 +1,0 @@
-{{ yandex-cloud }} automatically blocks traffic sent from {{ vpc-name }} public IP addresses to TCP port 25 of any servers on the internet and {{ compute-full-name }} VMs. The only exception is the traffic sent to Yandex Mail email servers, which is allowed and not blocked.
-
-We recommend using [{{ postbox-full-name }}](../../postbox/index.yaml) to send your emails. If you have any issues, contact [support](../../support/overview.md).

@@ -1,1 +1,0 @@
-Optionally, add a description and labels for the new server using the **{{ ui-key.yc-ui-ai-studio.ui.add-description_dYQ89 }}** and **{{ ui-key.yc-ui-ai-studio.components.LabelSet.button_add-label_7L5iz }}** buttons.

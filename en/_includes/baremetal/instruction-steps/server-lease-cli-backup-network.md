@@ -1,1 +1,0 @@
-For the [{{ backup-name }}](../../../backup/concepts/agent.md) agent to exchange data with the [backup provider](../../../backup/concepts/index.md#providers) servers, make sure the server has network access to the IP addresses of {{ backup-name }} resources based on the following table: {#ip-access}

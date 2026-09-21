@@ -1,1 +1,0 @@
-Сервис [Karapace](https://github.com/Aiven-Open/karapace) недоступен во время технического обслуживания и автоматически запускается после его завершения. При этом данные схем сохраняются, так как они размещены в [служебном топике](../../../managed-kafka/concepts/topics.md#service-topics) `__schema_registry`.

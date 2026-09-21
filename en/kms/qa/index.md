@@ -1,1 +1,0 @@
-{% include [general](../../_qa/kms/general.md) %}

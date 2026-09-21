@@ -1,1 +1,0 @@
-**Атомарные транзакции** — включите, если нужно, чтобы для таблиц транзакции были полностью [атомарными](https://ytsaurus.tech/docs/ru/user-guide/dynamic-tables/transactions#atomicity) (свойство `atomicity=full`).

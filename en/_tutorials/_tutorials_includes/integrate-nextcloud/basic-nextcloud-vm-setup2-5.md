@@ -1,1 +1,0 @@
-In the window that opens, select ![person](../../../_assets/console-icons/person.svg) **Your apps** in the left-hand panel.

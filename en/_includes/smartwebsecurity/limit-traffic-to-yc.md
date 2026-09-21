@@ -1,1 +1,0 @@
-In your server settings, block all connections except those for [{{ yandex-cloud }} IP addresses](../../overview/concepts/public-ips.md).

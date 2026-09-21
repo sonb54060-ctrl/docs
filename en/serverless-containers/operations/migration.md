@@ -1,8 +1,0 @@
----
-title: Migrating containers to the {{ region-id }}-d availability zone
-description: In this guide, you will learn how to migrate subnets for containers to a different availability zone.
----
-
-# Migrating containers to the {{ region-id }}-d availability zone
-
-{% include notitle [migration](../../_includes/functions/migration.md) %}

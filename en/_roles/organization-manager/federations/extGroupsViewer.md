@@ -1,1 +1,0 @@
-The `organization-manager.federations.extGroupsViewer` role enables viewing the list of and info on {{ org-full-name }} [user groups](../../../organization/concepts/groups.md) associated with [identity federations](../../../organization/concepts/groups.md) through synchronization with user groups in Active Directory or another external source.

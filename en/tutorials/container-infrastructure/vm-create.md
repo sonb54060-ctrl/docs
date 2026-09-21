@@ -1,1 +1,0 @@
-{% include [vm-create](../../_tutorials/containers/vm-create.md) %}

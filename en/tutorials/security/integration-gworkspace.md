@@ -1,1 +1,0 @@
-{% include [integration-gworkspace](../../_tutorials/security/integration-gworkspace.md) %}

@@ -1,1 +1,0 @@
-The sender's email domain must match the one specified in the {{ postbox-short-name }} address you created when [getting started](#infrastructure). For example, if your verified domain is `yourdomain.com`, you can use addresses like `noreply@yourdomain.com` or `admin@yourdomain.com` but not `user@mail.yourdomain.com`.

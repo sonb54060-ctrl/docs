@@ -1,1 +1,0 @@
-[Quotas]({{ link-console-quotas }}) and limits for cluster storage do not apply to backup storage.

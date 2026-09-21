@@ -1,1 +1,0 @@
-Поддерживаются коды из списка [HTTP Status Code Registry](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml), кроме тех кодов, у которых в описании указано `Unassigned`.

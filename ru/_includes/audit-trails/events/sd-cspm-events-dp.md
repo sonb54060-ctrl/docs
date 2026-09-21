@@ -1,6 +1,0 @@
-Имя события | Описание
---- | ---
-`AssetFailedRuleCheck` | Отчет [модуля](../../../security-deck/concepts/cspm.md) {{ cspm-name }} о неудачной проверке объекта
-`AssetPassedRuleCheck` | Отчет модуля {{ cspm-name }} об успешной проверке объекта
-`AssetRuleCheckCouldNotBeExecuted` | Отчет модуля {{ cspm-name }} об ошибке проверки объекта
-`AssetRuleCheckNoLongerInScope` | Отчет модуля {{ cspm-name }} об исключении правила из области действия

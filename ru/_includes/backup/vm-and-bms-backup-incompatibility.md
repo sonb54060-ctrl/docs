@@ -1,1 +1,0 @@
-Восстановить резервную копию виртуальной машины на сервер или резервную копию сервера на виртуальную машину невозможно. При этом вы можете восстановить резервную копию [внешнего](../../backup/concepts/vm-connection/external-resources.md) сервера на [сервер {{ baremetal-full-name }}](../../backup/concepts/vm-connection/baremetal.md).

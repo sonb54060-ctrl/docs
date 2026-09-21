@@ -1,1 +1,0 @@
-Роль `marketplace.productInstances.auditor` позволяет просматривать информацию об установленных [продуктах](../../../marketplace/concepts/product.md) {{ marketplace-short-name }} и назначенных [правах доступа](../../../iam/concepts/access-control/index.md) к ним, а также просматривать метаданные [каталога](../../../resource-manager/concepts/resources-hierarchy.md#folder).

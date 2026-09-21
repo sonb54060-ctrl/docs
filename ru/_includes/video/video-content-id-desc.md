@@ -1,1 +1,0 @@
-Где `https://runtime.video.cloud.yandex.net/player/...` — ссылка на [видео](../../video/operations/video/get-link.md), [трансляцию](../../video/operations/streams/get-link.md) или [плейлист](../../video/operations/playlists/get-link.md).

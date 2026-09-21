@@ -1,1 +1,0 @@
-{% include [monitoring](../../_includes/security/standard-360/monitoring.md) %}

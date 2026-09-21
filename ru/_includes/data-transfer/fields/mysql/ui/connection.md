@@ -1,1 +1,0 @@
-**{{ ui-key.yc-data-transfer.data-transfer.console.form.common.console.form.common.ConnmanConnection.connection_id.title }}** — укажите идентификатор управляемого подключения в {{ connection-manager-name }}.

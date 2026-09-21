@@ -1,3 +1,0 @@
-`k8s.tunnelClusters.agent` — специальная роль для создания [кластера {{ k8s }}](../../../managed-kubernetes/concepts/index.md#kubernetes-cluster) с туннельным режимом. Дает право на создание [групп узлов](../../../managed-kubernetes/concepts/index.md#node-group), дисков, внутренних балансировщиков. Позволяет использовать заранее созданные [ключи](../../../kms/concepts/key.md) {{ kms-full-name }} для шифрования и расшифрования секретов.
-
-Включает разрешения, предоставляемые ролями `compute.admin`, `iam.serviceAccounts.user`, `k8s.viewer`, `kms.keys.encrypterDecrypter` и `load-balancer.privateAdmin`.

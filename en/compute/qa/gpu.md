@@ -1,1 +1,0 @@
-{% include [gpu](../../_qa/compute/gpu.md) %}

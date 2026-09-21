@@ -1,1 +1,0 @@
-Управлять SAML-приложениями может пользователь, которому назначена [роль](../../organization/security/index.md#organization-manager-samlApplications-admin) `organization-manager.samlApplications.admin` или выше.

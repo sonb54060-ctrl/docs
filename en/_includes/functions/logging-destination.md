@@ -1,1 +1,0 @@
-If no custom [log group](../../logging/concepts/log-group.md) is specified in the function version settings or logging remains enabled, the function automatically writes all [logs](../../functions/concepts/logs.md) to the default log group of the [folder](../../resource-manager/concepts/resources-hierarchy.md#folder) it resides in.

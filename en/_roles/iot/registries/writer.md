@@ -1,1 +1,0 @@
-The `iot.registries.writer` role grants permission to send [gRPC messages](../../../iot-core/concepts/mqtt-grpc.md) to {{ iot-full-name }} on behalf of a [registry](../../../iot-core/concepts/index.md#registry).

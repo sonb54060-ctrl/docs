@@ -1,1 +1,0 @@
-Make sure the first terminal displays `test message` sent in the second terminal.

@@ -1,1 +1,0 @@
-The `notifications.auditor` role enables viewing metadata for all [notification channels](../../notifications/concepts/index.md#channels), [topic](../../notifications/concepts/topics.md) metadata, and info on {{ cns-name }} [quotas](../../notifications/concepts/limits.md).

@@ -1,1 +1,0 @@
-You cannot delete a backend group used in an HTTP router or load balancer. First, you need to remove it from all HTTP routers and load balancers.

@@ -1,1 +1,0 @@
-Open the `config.json` file. It already contains a basic VM configuration, but you can customize it:

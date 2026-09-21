@@ -1,1 +1,0 @@
-Триггер для {{ yds-name }} принимает и отправляет сообщения только в формате [JSON](https://{{ lang }}wikipedia.org/wiki/JSON).

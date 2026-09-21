@@ -1,1 +1,0 @@
-If you set the minimum logging level, the execution log will contain logs of this level or higher. With no minimum logging level set, all container logs will be written to the execution log.

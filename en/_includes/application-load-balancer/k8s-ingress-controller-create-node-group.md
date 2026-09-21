@@ -1,1 +1,0 @@
-[Create a node group](../../managed-kubernetes/operations/node-group/node-group-create.md). To enable internet access for your node group (e.g., for Docker image pulls), assign it a public IP address. Specify the preconfigured security groups.

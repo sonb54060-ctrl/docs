@@ -1,1 +1,0 @@
-Формат поставки данных в {{ monium-name }} — [OpenTelemetry (OTLP)](https://opentelemetry.io/docs/).

@@ -1,1 +1,0 @@
-By default, the gateway IP address is the first available address in the specified subnet CIDR range.

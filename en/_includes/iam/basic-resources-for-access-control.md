@@ -1,4 +1,0 @@
-
-You can assign a role to an [organization](../../organization/concepts/organization.md), [cloud](../../resource-manager/concepts/resources-hierarchy.md#cloud), or [folder](../../resource-manager/concepts/resources-hierarchy.md#folder). The roles assigned to organizations, clouds, and folders also apply to their nested resources.
-
-

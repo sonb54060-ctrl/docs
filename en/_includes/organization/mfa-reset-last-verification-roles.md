@@ -1,1 +1,0 @@
-To reset a user account verification date, you need the `organization-manager.federations.userAdmin` [role](../../organization/security/index.md) or higher (for federated accounts) or the `organization-manager.userpools.userAdmin` role or higher (for local accounts).

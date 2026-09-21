@@ -1,1 +1,0 @@
-Пользователь с ролью `k8s.cluster-api.admin` получает группу `yc:k8s-core-admin` и роль `admin` в {{ k8s }} RBAC.

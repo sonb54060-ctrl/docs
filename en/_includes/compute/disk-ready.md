@@ -1,1 +1,0 @@
-Once created, the disk will get the `Creating` status. Wait until the disk status changes to `Ready` before using it.

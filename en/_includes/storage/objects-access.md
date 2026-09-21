@@ -1,1 +1,0 @@
-Once you successfully complete all the steps, you will have access to objects via links in `<domain_name>/<object_key>` format.

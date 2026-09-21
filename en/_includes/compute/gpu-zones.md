@@ -1,1 +1,0 @@
-You can create VMs based on {{ v100-broadwell }}, {{ v100-cascade-lake }}, and {{ a100-epyc }} in the `{{ region-id }}-a` and `{{ region-id }}-b` availability zones.

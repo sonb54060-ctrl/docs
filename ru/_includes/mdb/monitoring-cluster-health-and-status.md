@@ -1,1 +1,0 @@
-**{{ ui-key.yacloud.mdb.cluster.overview.label_health }}** кластера указывает на исправность его хостов, а **{{ ui-key.yacloud.mdb.cluster.overview.label_status }}** показывает, запущен кластер, остановлен или находится в промежуточном состоянии.

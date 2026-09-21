@@ -1,1 +1,0 @@
-To create a registry, use the [create](../../container-registry/api-ref/Registry/create.md) method for the [Registry](../../container-registry/api-ref/Registry/) resource.

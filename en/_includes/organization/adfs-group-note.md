@@ -1,1 +1,0 @@
-When using `Token-Groups - Unqualified Names`, specify the short group name, i.e., `adfs_group`, as the ID.

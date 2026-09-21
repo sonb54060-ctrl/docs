@@ -1,1 +1,0 @@
-We recommend changing the host class only when your cluster has no active workload.

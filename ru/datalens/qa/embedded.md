@@ -1,1 +1,0 @@
-{% include [embedded](../../_qa/datalens/embedded.md) %}

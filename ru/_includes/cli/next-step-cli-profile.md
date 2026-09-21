@@ -1,1 +1,0 @@
-Для дальнейшей работы с CLI [создайте профиль](../../cli/operations/profile/profile-create.md).

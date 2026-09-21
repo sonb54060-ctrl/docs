@@ -1,1 +1,0 @@
-Wait until the resource is created. It may take up to 15 minutes.

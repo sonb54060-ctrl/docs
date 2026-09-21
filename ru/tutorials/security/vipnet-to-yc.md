@@ -1,1 +1,0 @@
-{% include [vipnet-to-yc](../../_tutorials/security/vipnet-to-yc.md) %}

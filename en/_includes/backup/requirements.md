@@ -1,1 +1,0 @@
-For the proper [{{ backup-name }} agent](../../backup/concepts/agent.md) operation, the VM must meet the [minimum requirements](../../backup/concepts/vm-connection/index.md#requirements).

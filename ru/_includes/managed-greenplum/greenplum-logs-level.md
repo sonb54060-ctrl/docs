@@ -1,1 +1,0 @@
-Вы можете [задать](../../managed-greenplum/operations/update.md#change-gp-settings) уровень логирования СУБД в [параметре](../../managed-greenplum/concepts/settings-list.md#setting-log-min-messages) `Log min messages`.

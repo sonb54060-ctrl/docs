@@ -1,1 +1,0 @@
-In the **{{ ui-key.yacloud.baremetal.field_server-count_jPgTg }}** field, select how many servers of this configuration that you want to lease.

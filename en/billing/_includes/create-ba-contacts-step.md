@@ -1,1 +1,0 @@
-Contact details associated with your Yandex ID will be automatically added to your account. If this has not happened, provide your current email address and phone number. These contact details are not just for communication with you but also for payment invoices and reporting documents.

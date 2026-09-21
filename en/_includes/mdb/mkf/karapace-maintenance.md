@@ -1,1 +1,0 @@
-[Karapace](https://github.com/Aiven-Open/karapace) is unavailable during maintenance and automatically restarts after its completion. Meanwhile, all schema data is retained as it is stored in the `__schema_registry` [service topic](../../../managed-kafka/concepts/topics.md#service-topics).

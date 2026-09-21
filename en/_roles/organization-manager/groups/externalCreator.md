@@ -1,1 +1,0 @@
-The `organization-manager.groups.externalCreator` role enables creating {{ org-full-name }} [user groups](../../../organization/concepts/groups.md) when synchronizing with user groups in Active Directory or another external source.

@@ -1,1 +1,0 @@
-Трафик, передаваемый между {{ baremetal-full-name }} и сервисом [{{ backup-full-name }}](../../backup/index.yaml), не тарифицируется.

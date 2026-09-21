@@ -1,1 +1,0 @@
-[Подключитесь](../../../compute/operations/vm-connect/ssh.md#vm-connect) к виртуальной машине `nextcloud-vm` по SSH.

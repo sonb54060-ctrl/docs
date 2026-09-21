@@ -1,1 +1,0 @@
-The `managed-spark.auditor` role enables viewing info on [{{ SPRK }} clusters](../../managed-spark/concepts/index.md), [access permissions](../../iam/concepts/access-control/index.md) granted for them, and on [quotas](../../managed-spark/concepts/limits.md#quotas) for {{ msp-name }}.

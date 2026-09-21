@@ -1,1 +1,0 @@
-The `iot.devices.writer` role grants permission to send [gRPC messages](../../../iot-core/concepts/mqtt-grpc.md) to {{ iot-full-name }} on behalf of a [device](../../../iot-core/concepts/index.md#device).

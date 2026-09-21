@@ -1,1 +1,0 @@
-The provided request examples work correctly only with [Docker image nodes](../../datasphere/concepts/deploy/index.md#docker-node). To request [a model node](../../datasphere/concepts/deploy/index.md#models-node), install [Triton Client](https://github.com/triton-inference-server/client).

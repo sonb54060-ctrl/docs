@@ -1,1 +1,0 @@
-If no custom [log group](../../logging/concepts/log-group.md) is specified in the container revision settings or logging remains enabled, the container automatically writes all [logs](../../serverless-containers/concepts/logs.md) to the default log group of the [folder](../../resource-manager/concepts/resources-hierarchy.md#folder) it resides in.

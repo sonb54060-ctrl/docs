@@ -1,1 +1,0 @@
-{{ dns-name }} supports any domain names, including those with local characters, e.g., in such zones as `.рф`, `.бел`, and others. To create a domain name with non-Latin characters, use [Punycode](https://{{ lang }}.wikipedia.org/wiki/Punycode).

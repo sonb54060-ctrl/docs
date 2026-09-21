@@ -1,1 +1,0 @@
-Using `HttpBackendGroup` enables extended {{ alb-name }} functionality. A backend group can route traffic to either {{ k8s }} services or [{{ objstorage-full-name }} buckets](../../storage/concepts/bucket.md). `HttpBackendGroup` allows you to distribute traffic across backends proportionally using relative weights.

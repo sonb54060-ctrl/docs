@@ -1,1 +1,0 @@
-You can also view the connection command in the [management console]({{ link-console-main }}): on the cluster page, navigate to the **{{ ui-key.yacloud.common.overview }}** tab and check the **{{ ui-key.yacloud.k8s.Cluster.CommonInfo.access-section-title_fW4Au }}**.

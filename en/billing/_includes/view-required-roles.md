@@ -1,1 +1,0 @@
-Viewing is available to users with the `billing.accounts.viewer` [role](../security/index.md#billing-accounts-viewer) or higher for the billing account.

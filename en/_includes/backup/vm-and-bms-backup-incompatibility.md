@@ -1,1 +1,0 @@
-You cannot restore a VM backup to a server or a server backup to a VM. However, you can restore an [external](../../backup/concepts/vm-connection/external-resources.md) server backup to a [{{ baremetal-full-name }} server](../../backup/concepts/vm-connection/baremetal.md).

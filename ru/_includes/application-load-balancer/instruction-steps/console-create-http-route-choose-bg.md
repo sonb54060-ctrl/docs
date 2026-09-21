@@ -1,1 +1,0 @@
-В поле **{{ ui-key.yacloud.alb.label_backend-group }}** выберите [группу бэкендов](../../../application-load-balancer/concepts/backend-group.md), расположенную в том же каталоге, в котором находятся [HTTP-роутер](../../../application-load-balancer/concepts/http-router.md) и виртуальный хост, для которых вы создаете маршрут.

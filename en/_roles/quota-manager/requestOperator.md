@@ -1,1 +1,0 @@
-The `quota-manager.requestOperator` role lets you create requests for new {{ yandex-cloud }} service [quotas](../../overview/concepts/quotas-limits.md). This permission is also part of the `admin` and `editor` roles.

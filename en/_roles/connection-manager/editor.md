@@ -1,8 +1,0 @@
-The `connection-manager.editor` role allows you to manage connections and view their details.
-
-Users with this role can:
-* Create, use, edit, and delete [connections](../../metadata-hub/concepts/connection-manager.md).
-* View connection details and info on connection [access permissions](../../iam/concepts/access-control/index.md).
-* View info on {{ connection-manager-name }} [quotas](../../metadata-hub/concepts/limits.md).
-
-This role includes the `connection-manager.viewer` permissions.

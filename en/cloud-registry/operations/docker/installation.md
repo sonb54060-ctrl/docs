@@ -1,9 +1,0 @@
-# Installing and configuring Docker in {{ cloud-registry-name }}
-
-Before you start using {{ cloud-registry-name }}, install and configure [Docker](https://www.docker.com/) on your local computer.
-
-{% include [configure-docker](../../../_includes/container-registry/configure-docker.md) %}
-
-#### Useful links {#see-also}
-
-[{#T}](authentication.md)

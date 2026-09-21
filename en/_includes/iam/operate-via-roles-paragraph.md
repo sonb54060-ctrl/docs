@@ -1,1 +1,0 @@
-{{ yandex-cloud }} users can only perform operations on resources within the permissions of the [roles](../../iam/concepts/access-control/roles.md) assigned to them. With no roles assigned, almost no operations are allowed.

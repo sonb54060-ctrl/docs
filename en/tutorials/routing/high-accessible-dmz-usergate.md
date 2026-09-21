@@ -1,1 +1,0 @@
-{% include [high-accessible-dmz-usergate](../../_tutorials/routing/high-accessible-dmz-usergate.md) %}

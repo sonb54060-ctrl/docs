@@ -1,1 +1,0 @@
-Для создания зашифрованного диска нужна [роль](../../kms/security/index.md#kms-keys-user) `kms.keys.user` или выше.

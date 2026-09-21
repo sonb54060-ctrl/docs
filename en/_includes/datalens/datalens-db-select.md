@@ -1,1 +1,0 @@
-Select a managed database in the current {{ yandex-cloud }} organization and specify the internal network connection parameters for it:

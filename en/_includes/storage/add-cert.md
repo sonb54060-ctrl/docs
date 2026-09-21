@@ -1,1 +1,0 @@
-Configure HTTPS by linking a Certificate Manager certificate to your bucket or uploading your own.

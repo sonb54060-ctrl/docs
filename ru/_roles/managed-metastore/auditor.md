@@ -1,1 +1,0 @@
-Роль `managed-metastore.auditor` позволяет просматривать информацию о [кластерах](../../metadata-hub/concepts/metastore.md) {{ metastore-name }} и квотах сервисов управляемых баз данных {{ yandex-cloud }}.

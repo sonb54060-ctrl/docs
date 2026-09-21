@@ -1,1 +1,0 @@
-To access a registry, use its ID or name. For information on how to get the ID or name of a registry, see [{#T}](../../iot-core/operations/registry/registry-list.md).

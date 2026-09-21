@@ -1,1 +1,0 @@
-The `managed-ytsaurus.auditor` role enables viewing info on {{ ytsaurus-name }} clusters as well as data on the [quotas](../../managed-ytsaurus/concepts/limits.md#quotas) and resource operations for {{ myt-name }}.

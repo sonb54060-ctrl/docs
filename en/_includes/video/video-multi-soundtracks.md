@@ -1,1 +1,0 @@
-You can upload videos with multiple audio tracks or add them after uploading using [neural translation](../../video/concepts/videos.md#translation). Select the tracks in the [player](../../video/concepts/player.md) menu; read more in [{#T}](../../video/operations/player-control.md#audio).

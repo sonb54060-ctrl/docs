@@ -1,1 +1,0 @@
-To prevent such issues, [limit](../../../backup/operations/limit-agent-memory-usage.md) the amount of data the agent caches in RAM.

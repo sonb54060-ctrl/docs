@@ -1,1 +1,0 @@
-{% include [integrations](../../_includes/security/standard-360/integrations.md) %}

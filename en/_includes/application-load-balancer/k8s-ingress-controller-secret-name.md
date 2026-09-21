@@ -1,1 +1,0 @@
-If the certificate is not available in {{ certificate-manager-name }}, provide it through a {{ k8s }} secret by specifying its name in the `secretName` field. {{ alb-name }} Ingress controller will automatically add this certificate to {{ certificate-manager-name }}.

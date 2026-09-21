@@ -1,1 +1,0 @@
-The `managed-clickhouse.clusters.connector` role enables {{ yandex-cloud }} [users](../../../iam/concepts/users/accounts.md) to connect to databases in [{{ CH }} clusters](../../../managed-clickhouse/concepts/index.md) via [{{ iam-full-name }}](../../../iam/index.yaml).

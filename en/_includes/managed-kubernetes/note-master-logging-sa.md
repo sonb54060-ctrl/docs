@@ -1,1 +1,0 @@
-To send logs to {{ cloud-logging-full-name }}, [assign](../../iam/operations/sa/assign-role-for-sa.md) the [{{ roles-logging-writer }}](../../logging/security/index.md#loggingwriter) role for resources to the service account.

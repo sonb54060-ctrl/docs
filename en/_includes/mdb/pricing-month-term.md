@@ -1,1 +1,0 @@
-The monthly prices are based on 720 hours per month.

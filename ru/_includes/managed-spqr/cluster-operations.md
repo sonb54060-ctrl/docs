@@ -1,1 +1,0 @@
-Идентификатор операции можно получить со [списком операций](../../managed-spqr/operations/cluster-list.md#get-operations) для кластера.

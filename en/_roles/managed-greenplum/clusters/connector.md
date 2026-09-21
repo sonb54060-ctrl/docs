@@ -1,1 +1,0 @@
-The `managed-greenplum.clusters.connector` role enables {{ yandex-cloud }} [users](../../../iam/concepts/users/accounts.md) to connect to databases in [{{ mgp-name }} clusters](../../../managed-mysql/concepts/index.md) within {{ mgp-full-name }} via [{{ iam-full-name }}](../../../iam/index.yaml).

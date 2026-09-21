@@ -1,1 +1,0 @@
-A bucket resource does not include resources of all its objects. To make sure a bucket policy rule refers to the bucket and all the objects, specify them as separate resources, e.g., `samplebucket` and `samplebucket/*`.

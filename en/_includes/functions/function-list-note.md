@@ -1,1 +1,0 @@
-To find out the name or ID of a function, [get](../../functions/operations/function/function-list.md) the list of functions in the folder.

@@ -1,8 +1,0 @@
-You can assign the `datalens.workbooks.editor` role to a workbook. With it, you can edit both the workbook and all its nested objects. In the {{ datalens-name }} UI, this role is referred to as `Editor`. You may want to only assign this role through the {{ datalens-name }} UI.
-
-Users with this role can:
-* Edit the relevant [workbook](../../../datalens/workbooks-collections/index.md) and create copies of it.
-* View and edit all workbook's nested [objects](../../../datalens/concepts/index.md#component-interrelation).
-* View info on the [access permissions]({{ link-docs }}/iam/concepts/access-control/) granted for the workbook.
-
-This role includes the `datalens.workbooks.viewer` permissions.

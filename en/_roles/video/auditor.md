@@ -1,1 +1,0 @@
-The `video.auditor` role enables viewing info on {{ video-name }} resources or a separate [channel’s](../../video/concepts/index.md#channels) resources, their settings, and their assigned [access permissions](../../iam/concepts/access-control/index.md).

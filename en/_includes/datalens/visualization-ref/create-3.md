@@ -1,1 +1,0 @@
-Click **Create chart** → **Chart**.

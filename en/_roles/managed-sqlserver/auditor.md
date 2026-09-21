@@ -1,1 +1,0 @@
-The `managed-sqlserver.auditor` role allows you to view information on SQL Server clusters, hosts, users, databases, cluster backups, as well as on quotas and resource operations for Managed Service for SQL Server.

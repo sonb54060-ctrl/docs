@@ -1,1 +1,0 @@
-Если у пользователя есть права [суперпользователя](https://ru.wikipedia.org/wiki/Root) на ВМ, то он может сохранить доступ к ней даже при [отзыве ролей](../../organization/security/index.md#revoke). Чтобы пользователь не смог зайти на ВМ с прежними правами, [создайте](../../compute/operations/images-with-pre-installed-software/create.md) новую ВМ из чистого образа.

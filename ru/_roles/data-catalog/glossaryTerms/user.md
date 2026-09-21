@@ -1,1 +1,0 @@
-Роль `data-catalog.glossaryTerms.user` позволяет просматривать информацию о [терминах](../../../metadata-hub/concepts/data-catalog.md#glossaries-and-terms) в {{ data-catalog-name }} и использовать их.

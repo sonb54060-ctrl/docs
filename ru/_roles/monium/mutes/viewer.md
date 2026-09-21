@@ -1,1 +1,0 @@
-Роль `monium.mutes.viewer` позволяет просматривать [мьюты](../../../monium/alerts/mutes.md) — правила временного отключения [уведомлений](../../../monium/concepts/alerting/notification-channel.md) для [алертов](../../../monium/concepts/alerting/alert.md).

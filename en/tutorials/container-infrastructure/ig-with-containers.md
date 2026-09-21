@@ -1,1 +1,0 @@
-{% include [ig-with-containers](../../_tutorials/containers/ig-with-containers.md) %}

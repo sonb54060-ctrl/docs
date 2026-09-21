@@ -1,1 +1,0 @@
-The digital signature verification key certificate for the SAML app is automatically issued when the app is created for a five-year validity period.

@@ -1,1 +1,0 @@
-Optionally, enable the **{{ ui-key.yacloud_video.videos.field_enable-decode-errors-tolerance }}** setting if your file is corrupted or [processing errors](../../video/troubleshooting/index.md#processing-error) have occurred.

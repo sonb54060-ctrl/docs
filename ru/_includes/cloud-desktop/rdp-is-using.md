@@ -1,1 +1,0 @@
-Для подключения к рабочему столу используется [Remote Desktop Protocol](https://{{ lang }}.wikipedia.org/wiki/Remote_Desktop_Protocol) (RDP).

@@ -1,1 +1,0 @@
-The `organization-manager.groups.memberAdmin` role enables viewing the info on [user groups](../../../organization/concepts/groups.md), as well as viewing and modifying the lists of [users](../../../overview/roles-and-resources.md#users) and [service accounts](../../../iam/concepts/users/service-accounts.md) that are members of groups.

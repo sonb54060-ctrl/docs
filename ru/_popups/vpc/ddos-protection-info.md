@@ -1,1 +1,0 @@
-{{ ddos-protection-full-name }} — это компонент сервиса [{{ vpc-full-name }}](../../vpc/index.yaml), предназначенный для защиты облачных ресурсов от [DDoS-атак](../../glossary/ddos.md). Подробнее читайте в разделе [{#T}](../../vpc/ddos-protection/index.md).

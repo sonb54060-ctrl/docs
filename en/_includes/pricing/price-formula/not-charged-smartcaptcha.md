@@ -1,1 +1,0 @@
-You get the first 10,000 requests to the SmartCaptcha API at no charge every month.

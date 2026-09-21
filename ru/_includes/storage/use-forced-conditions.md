@@ -1,1 +1,0 @@
-Чтобы сделать проверку условий обязательной, используйте [политику доступа](../../storage/concepts/policy.md#conditional-writes-policy). Смотрите [примеры правил](../../storage/concepts/policy.md#conditional-writes-rules).

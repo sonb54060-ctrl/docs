@@ -1,1 +1,0 @@
-Роль `managed-spark.auditor` позволяет просматривать информацию о [кластерах {{ SPRK }}](../../managed-spark/concepts/index.md) и назначенных [правах доступа](../../iam/concepts/access-control/index.md) к ним, а также о [квотах](../../managed-spark/concepts/limits.md#quotas) сервиса {{ msp-name }}.

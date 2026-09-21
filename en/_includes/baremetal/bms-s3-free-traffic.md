@@ -1,1 +1,0 @@
-Traffic between {{ baremetal-full-name }} and {{ objstorage-full-name }} is free of charge regardless of direction according to the [{{ objstorage-name }} pricing policy](../../storage/pricing.md#prices-traffic).

@@ -1,1 +1,0 @@
-**Splitting.** You can split a chart by dimension into several small, easy-to-compare charts. To do this, drag a dimension from the dataset to the **Split** section.

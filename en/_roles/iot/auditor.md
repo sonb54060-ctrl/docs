@@ -1,1 +1,0 @@
-The `iot.auditor` role allows you to view metadata of [devices](../../iot-core/concepts/index.md#device), device [registries](../../iot-core/concepts/index.md#registry), and [brokers](../../iot-core/concepts/index.md#broker), as well as information on [quotas](../../iot-core/concepts/limits.md#iot-quotas) in {{ iot-full-name }}.

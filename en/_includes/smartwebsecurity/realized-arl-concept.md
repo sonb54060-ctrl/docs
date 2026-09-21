@@ -1,1 +1,0 @@
-[Advanced Rate Limiter (ARL)](../../smartwebsecurity/concepts/arl.md) helps monitor and limit your web application loads.

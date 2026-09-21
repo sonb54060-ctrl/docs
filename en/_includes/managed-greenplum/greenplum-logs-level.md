@@ -1,1 +1,0 @@
-You can [set](../../managed-greenplum/operations/update.md#change-gp-settings) the DBMS logging level in the `Log min messages` [parameter](../../managed-greenplum/concepts/settings-list.md#setting-log-min-messages).

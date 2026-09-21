@@ -1,1 +1,0 @@
-When using the HTTP API, you must [authenticate](../api/auth.md) by providing the [required headers](../api/index.md#mandatory-headers). You can also specify [optional headers](../api/index.md#optional-headers) to control how requests are executed. The HTTP API may return [errors](../api/index.md#errors).

@@ -1,1 +1,0 @@
-Deletion protection only works at the individual database level. Deleting a cluster will permanently remove all its databases, including those with deletion protection.

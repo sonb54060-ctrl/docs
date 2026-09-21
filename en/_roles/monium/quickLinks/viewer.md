@@ -1,1 +1,0 @@
-The `monium.quickLinks.viewer` role enables viewing the list of the set-up [quick links](../../../monium/concepts/glossary.md#project-menu) and info on them in the [project](../../../monium/concepts/glossary.md#project) menu.

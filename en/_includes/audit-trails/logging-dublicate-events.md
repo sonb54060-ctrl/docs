@@ -1,1 +1,0 @@
-When uploading to {{ cloud-logging-name }}, you may get duplicate events in a [log group](../../logging/concepts/log-group.md). To find duplicates, refer to the unique record ID, `json_payload.event_id`.

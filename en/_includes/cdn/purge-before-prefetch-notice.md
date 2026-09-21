@@ -1,1 +1,0 @@
-You can only prefetch the cache for content that is not yet available on CDN servers. To update cached files, you need to [purge the cache](../../cdn/concepts/caching.md#purge) first.

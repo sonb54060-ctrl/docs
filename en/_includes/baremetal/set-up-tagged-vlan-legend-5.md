@@ -1,1 +1,0 @@
-`<default_gateway_of_additional_subnet>`: IPv4 address of the default gateway in the additional private subnet you are configuring, e.g., `192.168.1.1`.

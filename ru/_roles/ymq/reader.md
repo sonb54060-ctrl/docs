@@ -1,1 +1,0 @@
-Роль `ymq.reader` дает право читать и удалять [сообщения](../../message-queue/concepts/message.md), устанавливать [таймауты видимости](../../message-queue/concepts/visibility-timeout.md) для сообщений, а также очищать [очередь](../../message-queue/concepts/queue.md) от сообщений. Позволяет получать список очередей и информацию о них.

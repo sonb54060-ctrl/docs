@@ -1,1 +1,0 @@
-Even with cluster deletion protection enabled, one can still delete a user or database or connect manually and delete the database contents.

@@ -1,8 +1,0 @@
-title: Yandex Load Testing
-href: sunset.md
-items:
-  - name: Закрытие сервиса
-    href: sunset.md
-  - name: Миграция нагрузочного тестирования на k6
-    href: tutorials/loadtesting-migration-to-k6.md
-path: ru/load-testing/toc.yaml

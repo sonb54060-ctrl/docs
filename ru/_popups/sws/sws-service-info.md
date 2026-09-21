@@ -1,1 +1,0 @@
-Сервис {{ sws-full-name }} предназначен для защиты инфраструктуры от [DDoS-атак](../../glossary/ddos.md) и ботов на уровне приложений (L7). Подробнее читайте в [документации {{ sws-name }}](../../smartwebsecurity/concepts/index.md).

@@ -1,1 +1,0 @@
-This service provides several [runtimes](../../functions/concepts/runtime/index.md) with different versions. We do not recommend using runtime versions that are no longer supported.

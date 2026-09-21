@@ -1,8 +1,0 @@
----
-title: How to create a user group in {{ org-full-name }}
-description: Follow this guide to create a user group in {{ org-full-name }}.
----
-
-# Creating a group
-
-{% include [create-group-org](../../_includes/organization/create-group-org.md) %}

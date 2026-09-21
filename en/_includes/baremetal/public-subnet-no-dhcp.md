@@ -1,1 +1,0 @@
-The dedicated public subnet [does not have](../../baremetal/concepts/dhcp.md#dhcp-public-subnet) a DHCP server; therefore, on the network interface of the server connected to such subnet, you should manually configure a static IP address from the subnet’s range of available public IP addresses and specify the default gateway address.

@@ -1,1 +1,0 @@
-The selected configuration allocates minimum resources to the master. Depending on the load, the amount of RAM and number of vCPUs will increase automatically.

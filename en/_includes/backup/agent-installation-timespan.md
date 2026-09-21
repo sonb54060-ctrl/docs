@@ -1,1 +1,0 @@
-After the VM status changes to `Running`, the {{ backup-name }} agent installation will start automatically. This may take from 5 to 10 minutes.

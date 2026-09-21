@@ -1,1 +1,0 @@
-You cannot delete backups yourself after you delete a cluster. They get deleted automatically.

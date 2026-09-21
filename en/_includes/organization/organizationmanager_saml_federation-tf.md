@@ -1,1 +1,0 @@
-For more on the properties of the `yandex_organizationmanager_saml_federation` resource, see [this provider guide]({{ tf-provider-resources-link }}/organizationmanager_saml_federation).

@@ -1,1 +1,0 @@
-You cannot connect to hosts via SSH. This is done for the sake of security and user cluster fault tolerance because direct changes inside a host can render it completely inoperable.

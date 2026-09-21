@@ -1,3 +1,0 @@
-* `{{ ui-key.yacloud.component.security-group-field.label_sg-none }}`: Allows any incoming and outgoing traffic for the load balancer. This is the least secure option.
-* `{{ ui-key.yacloud.component.security-group-field.label_sg-auto }}`: The load balancer creation process automatically provisions a security group allowing any incoming traffic on port `80` and TCP health check traffic on port `30080`. This security group also allows any outgoing traffic from the load balancer.
-* `{{ ui-key.yacloud.component.security-group-field.label_sg-from-list }}`: For more traffic management flexibility, [create](../../vpc/operations/security-group-create.md) your own security groups. You can assign up to five security groups to your load balancer.

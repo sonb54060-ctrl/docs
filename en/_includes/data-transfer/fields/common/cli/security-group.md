@@ -1,1 +1,0 @@
-`--security-group`: Network traffic security groups whose rules apply to VMs and clusters without altering their configurations. For more information, see [{#T}](../../../../../data-transfer/concepts/network.md).

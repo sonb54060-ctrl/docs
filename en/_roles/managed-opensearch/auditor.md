@@ -1,1 +1,0 @@
-The `managed-opensearch.auditor` role enables viewing info on [{{ OS }} clusters](../../managed-opensearch/concepts/index.md), [access permissions](../../iam/concepts/access-control/index.md) granted for them, and on [quotas](../../managed-opensearch/concepts/limits.md#quotas) and resource operations for {{ mos-name }}.

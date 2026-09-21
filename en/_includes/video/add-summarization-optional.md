@@ -1,1 +1,0 @@
-Optionally, to add [summarization](../../video/concepts/videos.md#summarization), enable **{{ ui-key.yacloud_video.videos.field_summarization }}**.

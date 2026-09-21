@@ -1,1 +1,0 @@
-The `ai.playground.user` role enables creating experiments, getting a list of all available models, and using these models in {{ ai-playground }} in the {{ yandex-cloud }} management console. To work with search indexes in the management console, you also need the `ai.assistants.editor` role.

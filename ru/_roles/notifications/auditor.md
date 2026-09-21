@@ -1,1 +1,0 @@
-Роль `notifications.auditor` позволяет просматривать метаданные всех [каналов уведомлений](../../notifications/concepts/index.md#channels), метаданные [топиков](../../notifications/concepts/topics.md), а также информацию о [квотах](../../notifications/concepts/limits.md) сервиса {{ cns-name }}.

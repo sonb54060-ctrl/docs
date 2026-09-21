@@ -1,1 +1,0 @@
-If your organization uses a proxy server to access {{ yandex-cloud }}, [configure the CLI connection to the proxy server](../../cli/concepts/index.md#cli-via-proxy) before running the `yc init` command.

@@ -1,1 +1,0 @@
-The `ai.guardrails.user` role enables applying [guardrails]({{ link-docs-ai }}ai-studio/concepts/security/guardrails#rules) for model responses and viewing metadata on such rules.

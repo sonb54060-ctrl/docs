@@ -1,1 +1,0 @@
-**{{ ui-key.yc-data-transfer.data-transfer.console.form.mysql.console.form.mysql.OnPremiseMysql.port.title }}** — укажите номер порта, который сервис {{ data-transfer-name }} будет использовать для подключения.

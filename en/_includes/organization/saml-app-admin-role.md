@@ -1,1 +1,0 @@
-SAML apps can be managed by users with the `organization-manager.samlApplications.admin` [role](../../organization/security/index.md#organization-manager-samlApplications-admin) or higher.

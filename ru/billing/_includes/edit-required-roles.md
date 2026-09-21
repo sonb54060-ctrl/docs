@@ -1,1 +1,0 @@
-Действие доступно пользователям с [ролью](../security/index.md#billing-accounts-editor) `billing.accounts.editor` или выше на платежном аккаунте.

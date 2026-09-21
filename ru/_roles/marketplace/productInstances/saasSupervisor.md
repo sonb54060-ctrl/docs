@@ -1,1 +1,0 @@
-Роль `marketplace.productInstances.saasSupervisor` позволяет просматривать информацию об установленных SaaS-[продуктах](../../../marketplace/concepts/product.md) {{ marketplace-short-name }} и активировать такие продукты.

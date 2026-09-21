@@ -1,1 +1,0 @@
-To avoid errors when restoring from a backup, start by comparing the disks and partitions of the backup against those of the VM or server you are restoring to. For more information, see [{#T}](../../backup/operations/backup-vm/view-disk-layout.md).

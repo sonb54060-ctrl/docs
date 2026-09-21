@@ -1,1 +1,0 @@
-The content on the new CDN resource will be accessible only via [signed links](../../../cdn/concepts/secure-tokens.md#protected-link).

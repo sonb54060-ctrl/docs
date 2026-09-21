@@ -1,1 +1,0 @@
-This action is available to users with the `billing.accounts.editor` [role](../security/index.md#billing-accounts-editor) or higher for the billing account.

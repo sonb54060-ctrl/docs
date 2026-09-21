@@ -1,1 +1,0 @@
-**Request table list**: Disable this option if loading a table list from the source takes too long or produces errors. Instead, use SQL subqueries to add tables.

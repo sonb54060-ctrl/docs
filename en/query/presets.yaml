@@ -1,4 +1,0 @@
-default:
-  yq-full-name: Yandex Query
-  yq-name: Query
-  yq-short-name: YQ

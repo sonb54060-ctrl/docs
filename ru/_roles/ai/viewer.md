@@ -1,6 +1,0 @@
-
-
-Роль `ai.viewer` позволяет просматривать информацию о квотах сервисов [{{ translate-full-name }}]({{ link-docs-ai }}ai-studio/concepts/limits#yandexgpt-quotas), [{{ vision-full-name }}]({{ link-docs-ai }}ai-studio/concepts/limits#yandexgpt-quotas), [{{ speechkit-full-name }}]({{ link-docs-ai }}speechkit/concepts/limits#speechkit-quotas) и [{{ ai-studio-full-name }}]({{ link-docs-ai }}ai-studio/concepts/limits#yandexgpt-quotas), о [моделях генерации текста]({{ link-docs-ai }}ai-studio/concepts/generation/models), о [правилах модерации]({{ link-docs-ai }}ai-studio/concepts/security/guardrails#rules) ответов моделей, о [датасетах]({{ link-docs-ai }}ai-studio/concepts/resources/dataset), загруженных [файлах]({{ link-docs-ai }}ai-studio/concepts/search/vectorstore#file-uploading) и [поисковых индексах]({{ link-docs-ai }}ai-studio/concepts/search/vectorstore) {{ vector-store-name }} в {{ ai-studio-full-name }}, выполнять чтение таких файлов и поиск по таким индексам, а также просматривать информацию об [облаке](../../resource-manager/concepts/resources-hierarchy.md#cloud) и [каталоге](../../resource-manager/concepts/resources-hierarchy.md#folder).
-
-
-Включает разрешения, предоставляемые ролями `ai.auditor`, `ai.assistants.viewer`, `ai.datasets.viewer`, `ai.models.viewer` и `ai.guardrails.viewer`.

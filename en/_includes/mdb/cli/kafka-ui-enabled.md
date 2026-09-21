@@ -1,1 +1,0 @@
-`--kafka-ui-enabled`: This setting defines whether to use [{{ kafka-ui }} for {{ KF }}](../../../managed-kafka/concepts/kafka-ui.md) and can be `true` or `false`.

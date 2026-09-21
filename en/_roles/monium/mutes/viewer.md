@@ -1,1 +1,0 @@
-The `monium.mutes.viewer` role enables viewing [mutes](../../../monium/alerts/mutes.md), i.e., rules for temporarily disabling [alert](../../../monium/concepts/alerting/alert.md) [notifications](../../../monium/concepts/alerting/notification-channel.md).

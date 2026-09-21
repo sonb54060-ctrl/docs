@@ -1,1 +1,0 @@
-If you are connecting to your {{ mtr-name }} cluster via a [service connection](../../managed-trino/concepts/network.md#private-endpoint), specify `c-<cluster_ID>.trino.pe.yandexcloud.net` as the host address.

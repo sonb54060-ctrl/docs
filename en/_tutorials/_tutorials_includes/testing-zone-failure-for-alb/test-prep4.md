@@ -1,1 +1,0 @@
-Get the list of load balancers that will participate in the testing:

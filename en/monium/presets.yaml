@@ -1,7 +1,0 @@
-default:
-  cloud-logging-full-name: Monium.Logs
-  cloud-logging-name: Monium.Logs
-  cloud-logging-short-name: Monium.Logs
-  monitoring-full-name: Monium.Metrics
-  monitoring-name: Monium.Metrics
-  monitoring-short-name: Monium.Metrics

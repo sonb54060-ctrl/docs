@@ -1,1 +1,0 @@
-You can limit data export from charts by enabling the **Disable data export** option under **Advanced connection settings**. Thus, for charts based on the respective connection, the export data option will not be available in their ![icon](../../../_assets/console-icons/ellipsis.svg) menu. However, you will still be able to copy chart data and take screenshots.

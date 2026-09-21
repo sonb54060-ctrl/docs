@@ -1,1 +1,0 @@
-Where `https://runtime.video.cloud.yandex.net/player/...` is a link to a [video](../../video/operations/video/get-link.md), [broadcast](../../video/operations/streams/get-link.md), or [playlist](../../video/operations/playlists/get-link.md).

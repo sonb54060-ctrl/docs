@@ -1,2 +1,0 @@
-* `{{ ui-key.yacloud_org.security.controls.ResourceExceptionForm.title_reportCompliance_re4wo }}`: If the conditions specified in the exception are met, the resource will generate only rule compliance signals.
-* `{{ ui-key.yacloud_org.security.controls.ResourceExceptionForm.title_exclude_uK4FD }}`: If the conditions specified in the exception are met, the resource will not generate any signals, neither on compliance nor on violation.

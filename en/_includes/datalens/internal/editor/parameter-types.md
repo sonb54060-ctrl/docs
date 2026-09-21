@@ -1,1 +1,0 @@
-You can use numeric or logical values for parameters in your charts. Then `value` will contain an array of values of these types. However, dashboard parameters are provided only as strings. Therefore, we recommend always reducing parameter values to a string or an array of strings to avoid data presentation inconsistencies in different widget states.

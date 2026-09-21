@@ -1,1 +1,0 @@
-В поле **{{ ui-key.yacloud.alb.label_route-type }}** выберите `{{ ui-key.yacloud.alb.label_proto-http }}`.

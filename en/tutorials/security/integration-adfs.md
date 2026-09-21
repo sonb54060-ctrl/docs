@@ -1,1 +1,0 @@
-{% include [integration-adfs](../../_tutorials/security/integration-adfs.md) %}

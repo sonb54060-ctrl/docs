@@ -1,1 +1,0 @@
-{% include [alerts-monitoring](../../_tutorials/security/alerts-monitoring.md) %}

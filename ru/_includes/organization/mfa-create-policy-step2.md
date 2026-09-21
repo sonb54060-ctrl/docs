@@ -1,1 +1,0 @@
-(Опционально) В поле **{{ ui-key.yacloud_org.forms.field.description }}** задайте описание политики.

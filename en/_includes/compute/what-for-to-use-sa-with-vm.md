@@ -1,1 +1,0 @@
-To automate working with {{ yandex-cloud }} from within a VM, we recommend using [service accounts](../../iam/concepts/users/service-accounts.md). This is secure, since you do not need to keep your token on the VM and can restrict access permissions for your service account.

@@ -1,1 +1,0 @@
-In the [management console]({{ link-console-main }}), select the [folder](../../../resource-manager/concepts/resources-hierarchy.md#folder) where you want to lease a server.

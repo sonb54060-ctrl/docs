@@ -1,1 +1,0 @@
-To use the CLI, [create a profile](../../cli/operations/profile/profile-create.md).

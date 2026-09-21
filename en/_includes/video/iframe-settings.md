@@ -1,1 +1,0 @@
-With [{{ video-player-name }} SDK for IFrame](../../video/sdk/iframe/index.md), you can specify additional player control and video playback settings for an HTML page, e.g., video size and looping, volume, etc.

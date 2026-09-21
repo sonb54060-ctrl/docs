@@ -1,1 +1,0 @@
-The `marketplace.productInstances.saasSupervisor` role enables viewing info on installed {{ marketplace-short-name }} SaaS [products](../../../marketplace/concepts/product.md) and activating such products.

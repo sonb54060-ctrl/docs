@@ -1,8 +1,0 @@
-default:
-  versions-cb:
-    cli:
-      str: Cloudberry 2
-  versions-gp:
-    cli:
-      latest: '6.29'
-      str: 6.28 or 6.29

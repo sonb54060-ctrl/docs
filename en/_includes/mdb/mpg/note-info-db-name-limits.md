@@ -1,1 +1,0 @@
-The database name may contain Latin letters, numbers, underscores, and hyphens. The maximum name length is 63 characters. The names `postgres`, `template0`, and `template1` are reserved for internal use by {{ mpg-name }}. You cannot create databases using these names.

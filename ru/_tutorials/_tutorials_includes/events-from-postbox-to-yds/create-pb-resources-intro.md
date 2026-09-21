@@ -1,4 +1,0 @@
-
-В сервисе {{ postbox-name }} настройте [конфигурацию](../../../postbox/concepts/glossary.md#subscription) для регистрации событий в {{ yds-name }}, создайте [адрес](../../../postbox/concepts/glossary.md#address) для отправки писем и [пройдите](../../../postbox/operations/check-domain.md) проверку прав на домен.
-
-

@@ -1,1 +1,0 @@
-To protect your web applications against external threats, {{ sws-name }} also implements a [web application firewall (WAF)](../../smartwebsecurity/concepts/waf.md).

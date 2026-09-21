@@ -1,1 +1,0 @@
-На панели слева выберите ![chart](../../../_assets/console-icons/chart-column.svg) **Чарты**.

@@ -1,1 +1,0 @@
-{% include [encryption-data-protection](../../_includes/security/standard-360/encryption-data-protection.md) %}

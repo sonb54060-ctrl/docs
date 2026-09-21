@@ -1,1 +1,0 @@
-To find out the name or ID of a trigger, [get](../../functions/operations/trigger/trigger-list.md) the list of triggers in the folder.

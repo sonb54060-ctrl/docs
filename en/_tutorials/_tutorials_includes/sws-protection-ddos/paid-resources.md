@@ -1,1 +1,0 @@
-The cost of infrastructure for DDoS protection includes a fee for requests processed by [security profile](../../../smartwebsecurity/concepts/profiles.md) rules (see [{{ sws-full-name }} pricing](../../../smartwebsecurity/pricing.md)).

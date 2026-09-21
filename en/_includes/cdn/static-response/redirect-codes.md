@@ -1,1 +1,0 @@
-The following codes are supported: `301`, `302`, `303`, `307`, and `308`.

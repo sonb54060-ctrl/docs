@@ -1,1 +1,0 @@
-[{{ video-name }} limits](../../video/concepts/limits.md) the resolution of the videos you are publishing.

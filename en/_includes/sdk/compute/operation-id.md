@@ -1,1 +1,0 @@
-Where `ID` is the VM create [operation](../../../api-design-guide/concepts/about-async.md) ID.

@@ -1,1 +1,0 @@
-Подробнее про ошибки сканирования на странице [{#T}](../../security-deck/diagnostics/dspm-diagnostics.md).

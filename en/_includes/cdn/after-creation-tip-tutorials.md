@@ -1,1 +1,0 @@
-It may take a few hours to update DNS records on the DNS servers. After that, you can check the health of the service.

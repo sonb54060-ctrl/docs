@@ -1,1 +1,0 @@
-Temporary {{ sts-name }} keys inherit the access permissions of the service account but are limited by the bucket-level access policy. If you set up a temporary key’s access policy to allow operations the service account has no permissions for, such operations will not be performed.
